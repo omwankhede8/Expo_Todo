@@ -2,10 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Preview on Expo app [(https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN&pli=1)]
-### link : - (https://expo.dev/preview/update?message=small%20update&updateRuntimeVersion=1.0.0&createdAt=2025-04-23T11%3A29%3A00.657Z&slug=exp&projectId=a149a876-4116-412c-98fd-876c27d64479&group=3a28af50-562f-41d2-882e-a5e54ecde7d1)
+ Preview on Expo app Download : - [(https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN&pli=1)]
+ link : - (https://expo.dev/preview/update?message=small%20update&updateRuntimeVersion=1.0.0&createdAt=2025-04-23T11%3A29%3A00.657Z&slug=exp&projectId=a149a876-4116-412c-98fd-876c27d64479&group=3a28af50-562f-41d2-882e-a5e54ecde7d1)
 
-## Get started
+ Get started
 
 1. Install dependencies
 
